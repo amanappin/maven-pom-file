@@ -7,8 +7,6 @@
   <groupId>com.appinventiv</groupId>
   <artifactId>webapp</artifactId>
   <version>1.0-SNAPSHOT</version>
-  
-  #added auto build option
 
   <name>webapp</name>
   <!-- FIXME change it to the project's website -->
